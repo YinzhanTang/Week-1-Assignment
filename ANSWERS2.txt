@@ -1,0 +1,11 @@
+The number of detective is:
+   33184 salaries.csv
+The number of full-time workers is : 
+   31090
+The number of part-time workers is : 
+    2093
+The number of people working for police department is : 
+   13891
+The number of detectives is: 
+     989
+13414 POLICE

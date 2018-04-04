@@ -1,0 +1,6 @@
+1. There are    33184 lines in this file.However, since the first row doesn't count, the number of employees should be    33184 minus 1. 
+2. There are    31090 full-time workers in the file.
+3. There are     2093 part-time workers in the file.
+4. There are    13891 people work for the police department.
+5. There are      989 people work for the police department are detectives.
+6. 13414 POLICE department has the most employees.
